@@ -1,12 +1,16 @@
 # Hi there! 👋 Welcome to my GitHub universe! 🌌
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/50761680/210089370-b8dc0fbf-7f9e-4d7e-a3d5-52803ee6f5b6.png" alt="Sakura Background" width="100%">
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=I'm+Raja+Venkatesh;A+Java+Wizard+and+Full-Stack+Sorcerer;Coding+from+the+Heart+of+India!)](https://git.io/typing-svg)
 
 ---
 
 ### 👨‍💻 About Me:
-- **Languages I speak fluently:** Java, Python, SQL (Code speaks louder than words!)
-- **Frontend magic:** ReactJS (Yes, I react to good design 😎)
+- **Languages I speak fluently:** Java, Python, SQL (Code speaks louder than words! 🧑‍💻)
+- **Frontend magic:** ReactJS (Yes, I react to good design 😎✨)
 - **Backend expertise:** MERN Stack (MongoDB, Express, React, Node.js) - Aka "Server-side Ninja" 🥷
 - **From:** India, where chai fuels both coders and bugs 🫖🐞
 
@@ -15,11 +19,11 @@
 ### 🛠️ Tech Toolbox:
 | **Tech**         | **Proficiency**    |
 |------------------|-------------------|
-| Java             | 🚀🚀🚀🚀🚀         |
-| Python           | 🚀🚀🚀🚀          |
-| ReactJS          | 🚀🚀🚀🚀          |
-| SQL              | 🚀🚀🚀           |
-| MERN Stack       | 🚀🚀🚀🚀          |
+| 🖥️ Java             | 🚀🚀🚀🚀🚀         |
+| 🐍 Python           | 🚀🚀🚀🚀          |
+| ⚛️ ReactJS          | 🚀🚀🚀🚀          |
+| 💾 SQL              | 🚀🚀🚀           |
+| 🌐 MERN Stack       | 🚀🚀🚀🚀          |
 
 ---
 
@@ -46,9 +50,9 @@
 ---
 
 ### ✨ Connect with Me:
-- 📧 [Email](mailto:grv.9604@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/guthularajavenkatesh/)
-- 🌐 [Portfolio](https://rajavenkatesh.me) (coming soon!)
+- 📧 [Email](mailto:raja.venkatesh@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajavenkatesh/)
+- 🌐 [Portfolio](https://rajavenkatesh.dev) (coming soon!)
 
 ---
 
