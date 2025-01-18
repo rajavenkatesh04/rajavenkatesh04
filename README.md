@@ -1,38 +1,56 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)]
-<h1 align="center">Hi 👋, I'm Raja Venkatesh</h1>
-<h3 align="center">A passionate Full-stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
+# Hi there! 👋 Welcome to my GitHub universe! 🌌
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=I'm+Raja+Venkatesh;A+Java+Wizard+and+Full-Stack+Sorcerer;Coding+from+the+Heart+of+India!)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajavenkatesh04&label=Profile%20views&color=0e75b6&style=flat" alt="rajavenkatesh04" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/itzgrv20" target="blank"><img src="https://img.shields.io/twitter/follow/itzgrv20?logo=twitter&style=for-the-badge" alt="itzgrv20" /></a> </p>
+### 👨‍💻 About Me:
+- **Languages I speak fluently:** Java, Python, SQL (Code speaks louder than words!)
+- **Frontend magic:** ReactJS (Yes, I react to good design 😎)
+- **Backend expertise:** MERN Stack (MongoDB, Express, React, Node.js) - Aka "Server-side Ninja" 🥷
+- **From:** India, where chai fuels both coders and bugs 🫖🐞
 
-- 🔭 I’m currently working on **Personal landing site**
+---
 
-- 🌱 I’m currently learning **Data structures & algorithms**
+### 🛠️ Tech Toolbox:
+| **Tech**         | **Proficiency**    |
+|------------------|-------------------|
+| Java             | 🚀🚀🚀🚀🚀         |
+| Python           | 🚀🚀🚀🚀          |
+| ReactJS          | 🚀🚀🚀🚀          |
+| SQL              | 🚀🚀🚀           |
+| MERN Stack       | 🚀🚀🚀🚀          |
 
-- 👨‍💻 All of my projects are available at [rajavenkatesh04.github.io/MyPortFolio/](rajavenkatesh04.github.io/MyPortFolio/)
+---
 
-- 📫 How to reach me **grv.9604@gmail.com**
+### 🌟 Fun Facts:
+- I debug so much, I dream in error codes. 😴💻
+- My coffee-to-code ratio is dangerously high. ☕➡️💻
+- I once made a "Hello World" program that accidentally caused a *Hello Universe*. 🌌
 
-- ⚡ Fun fact : **online resources taught me more than my college.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itzgrv20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzgrv20" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/guthularajavenkatesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guthularajavenkatesh" height="30" width="40" /></a>
-<a href="https://instagram.com/rarealitea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rarealitea" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raja_9604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raja_9604" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/2211003010773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2211003010773" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rg3941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rg3941" height="30" width="40" /></a>
-</p>
+### 🚀 Current Goals:
+1. Perfect the art of crafting clean, reusable, and scalable code.
+2. Learn more design patterns (because even code can be stylish ✨).
+3. Build projects that are useful, beautiful, and maybe a bit too ambitious.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajavenkatesh04&show_icons=true&locale=en&layout=compact" alt="rajavenkatesh04" /></p>
+### 🏆 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajavenkatesh&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajavenkatesh&layout=compact&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajavenkatesh04&show_icons=true&locale=en" alt="rajavenkatesh04" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajavenkatesh04&" alt="rajavenkatesh04" /></p>
+### ✨ Connect with Me:
+- 📧 Email: [raja.venkatesh@example.com](mailto:raja.venkatesh@example.com)
+- 💼 LinkedIn: [Raja Venkatesh](https://www.linkedin.com/in/rajavenkatesh/)
+- 🌐 Portfolio: [MyPortfolio](https://rajavenkatesh.dev) (coming soon!)
+
+---
+
+### 🖤 PS:
+> "There are 10 types of people in the world: those who understand binary, and those who don't." 😅
+
+*Thanks for stopping by! Drop a star ⭐ on my repos if you find something awesome. Let’s build cool things together!*
