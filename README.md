@@ -1,16 +1,12 @@
 # Hi there! 👋 Welcome to my GitHub universe! 🌌
 
-<div align="center">
-  <img src="" alt="" height="30%" width="100%">
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=I'm+Raja+Venkatesh;A+Java+Wizard+and+Full-Stack+Sorcerer;Coding+from+the+Heart+of+India!)](https://git.io/typing-svg)
 
 ---
 
 ### 👨‍💻 About Me:
-- **Languages I speak fluently:** Java, Python, SQL (Code speaks louder than words! 🧑‍💻)
-- **Frontend magic:** ReactJS (Yes, I react to good design 😎✨)
+- **Languages I speak fluently:** Java, Python, SQL (Code speaks louder than words!)
+- **Frontend magic:** ReactJS (Yes, I react to good design 😎)
 - **Backend expertise:** MERN Stack (MongoDB, Express, React, Node.js) - Aka "Server-side Ninja" 🥷
 - **From:** India, where chai fuels both coders and bugs 🫖🐞
 
@@ -19,11 +15,11 @@
 ### 🛠️ Tech Toolbox:
 | **Tech**         | **Proficiency**    |
 |------------------|-------------------|
-| 🖥️ Java             | 🚀🚀🚀🚀🚀         |
-| 🐍 Python           | 🚀🚀🚀🚀          |
-| ⚛️ ReactJS          | 🚀🚀🚀🚀          |
-| 💾 SQL              | 🚀🚀🚀           |
-| 🌐 MERN Stack       | 🚀🚀🚀🚀          |
+| Java             | 🚀🚀🚀🚀🚀         |
+| Python           | 🚀🚀🚀🚀          |
+| ReactJS          | 🚀🚀🚀🚀          |
+| SQL              | 🚀🚀🚀           |
+| MERN Stack       | 🚀🚀🚀🚀          |
 
 ---
 
