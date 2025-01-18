@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub universe! 🌌
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/50761680/210089370-b8dc0fbf-7f9e-4d7e-a3d5-52803ee6f5b6.png" alt="Sakura Background" width="100%">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlyem5wbHEwaWFoeThtMG43bGx6cnRzN2V0amI0Ym14bTNieHB5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding Background" width="100%">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=I'm+Raja+Venkatesh;A+Java+Wizard+and+Full-Stack+Sorcerer;Coding+from+the+Heart+of+India!)](https://git.io/typing-svg)
@@ -50,9 +50,9 @@
 ---
 
 ### ✨ Connect with Me:
-- 📧 [Email](mailto:raja.venkatesh@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rajavenkatesh/)
-- 🌐 [Portfolio](https://rajavenkatesh.dev) (coming soon!)
+- 📧 [Email](mailto:grv.9604@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/guthularajavenkatesh/)
+- 🌐 [Portfolio](https://rajavenkatesh.me) (coming soon!)
 
 ---
 
