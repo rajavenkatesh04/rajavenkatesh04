@@ -38,8 +38,10 @@
 ---
 
 ### 🏆 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajavenkatesh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajavenkatesh&layout=compact&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajavenkatesh&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajavenkatesh&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
