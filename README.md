@@ -44,9 +44,9 @@
 ---
 
 ### ✨ Connect with Me:
-- 📧 Email: [raja.venkatesh@example.com](mailto:raja.venkatesh@example.com)
-- 💼 LinkedIn: [Raja Venkatesh](https://www.linkedin.com/in/rajavenkatesh/)
-- 🌐 Portfolio: [MyPortfolio](https://rajavenkatesh.dev) (coming soon!)
+- 📧 Email: [raja.venkatesh@example.com](mailto:grv.9604@gmail.com)
+- 💼 LinkedIn: [Raja Venkatesh](https://www.linkedin.com/in/guthularajavenkatesh/)
+- 🌐 Portfolio: [MyPortfolio](https://rajavenkatesh.me) (coming soon!)
 
 ---
 
