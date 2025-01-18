@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub universe! 🌌
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlyem5wbHEwaWFoeThtMG43bGx6cnRzN2V0amI0Ym14bTNieHB5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding Background" height="30%" width="100%">
+  <img src="" alt="" height="30%" width="100%">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=I'm+Raja+Venkatesh;A+Java+Wizard+and+Full-Stack+Sorcerer;Coding+from+the+Heart+of+India!)](https://git.io/typing-svg)
