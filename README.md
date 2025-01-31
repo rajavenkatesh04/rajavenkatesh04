@@ -24,7 +24,7 @@
 ---
 
 ### 🌟 Fun Facts:
-- I debug so much, I dream in error codes. 😴💻
+- Online resorces taught me more than college. 😴💻
 - My coffee-to-code ratio is dangerously high. ☕➡️💻
 - I once made a "Hello World" program that accidentally caused a *Hello Universe*. 🌌
 
@@ -48,7 +48,7 @@
 ### ✨ Connect with Me:
 - 📧 [Email](mailto:grv.9604@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/guthularajavenkatesh/)
-- 🌐 [Portfolio](https://rajavenkatesh.me) (coming soon!)
+- 🌐 [Portfolio](https://rajavenkatesh.me)
 
 ---
 
