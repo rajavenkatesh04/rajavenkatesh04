@@ -31,9 +31,9 @@
 ---
 
 ### 🚀 Current Goals:
-1. Perfect the art of crafting clean, reusable, and scalable code.
-2. Learn more design patterns (because even code can be stylish ✨).
-3. Build projects that are useful, beautiful, and maybe a bit too ambitious.
+1. Perfect the art of crafting clean, reusable, and scalable code
+2. Learn more design patterns (because even code can be stylish ✨)
+3. Build projects that are useful, beautiful, and maybe a bit too ambitious
 
 ---
 
