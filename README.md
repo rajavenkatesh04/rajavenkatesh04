@@ -1,5 +1,5 @@
-<!-- Add your banner here -->
-[Your Banner Placeholder]
+
+![Banner](./Banner.png)
 
 # Hi there! 👋 I'm Raja Venkatesh
 
