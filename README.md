@@ -6,7 +6,7 @@
 
 Final year B.Tech CSE student at SRM Institute of Science and Technology with a passion for building scalable web applications. Currently serving as Public Relations Head at SRM IEEE Student Branch, leading technical workshops and community engagement.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,7 +33,7 @@ Final year B.Tech CSE student at SRM Institute of Science and Technology with a 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
