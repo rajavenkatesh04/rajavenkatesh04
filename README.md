@@ -18,7 +18,7 @@
 I am a final-year B.Tech CSE student at SRM Institute of Science and Technology. My focus is on **distributed systems** and **cloud-native architecture**. I actively contribute to the tech community as the **Public Relations Head at SRM IEEE**, bridging the gap between students and industry standards.
 
 * **Current Focus:** Mastering Microservices patterns and AWS Cloud infrastructure.
-* **Looking For:** Full-time SDE / Full-Stack Engineer roles (Available Jan 2025).
+* **Looking For:** Full-time SDE / Full-Stack Engineer roles (Available immediately).
 
 ---
 
