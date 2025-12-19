@@ -72,7 +72,7 @@ I am a final-year B.Tech CSE student at SRM Institute of Science and Technology.
 <br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rajavenkatesh04&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rajavenkatesh04&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </a>
 
 </div>
